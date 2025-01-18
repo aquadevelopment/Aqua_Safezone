@@ -2,14 +2,9 @@
 
 fx_version 'cerulean'
 game 'gta5'
-lua54 'yes'
-
-escrow_ignore {
-   'config.lua',
-}
 
 author 'Max'
-description 'Awanta CL Safezone mit liebe'
+description 'Aqua Safezone'
 version '1.0.1'
 
 client_script 'client.lua'
