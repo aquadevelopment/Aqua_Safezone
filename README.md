@@ -22,6 +22,11 @@ Edit the `config.lua` file to adjust the safe zones to fit your server:
 - Toggle notifications on or off.
 - Customize messages for players entering or leaving a zone.
 
+### © 2025 Aqua Development. All rights reserved.  
+This FiveM Safezone script is copyrighted.  
+Reproduction, distribution, or modification without the explicit permission of the author is prohibited.  
+FiveM and Grand Theft Auto V are trademarks of Rockstar Games. This script is not affiliated with Rockstar Games or Take-Two Interactive.  
+
 ### 📞 Support
 If you encounter any issues or have questions, please contact us at https://discord.gg/yDwjBKu8tM.
 
@@ -48,6 +53,11 @@ Passe die Datei `config.lua` an, um die Safe Zones für deinen Server zu konfigu
 - Definiere mehrere Safe Zones mit benutzerdefinierten Koordinaten und Größen.
 - Aktiviere oder deaktiviere Benachrichtigungen.
 - Passe die Nachrichten für das Betreten oder Verlassen einer Zone an.
+
+### © 2025 Aqua Development. Alle Rechte vorbehalten.  
+Dieses FiveM Safezone-Script ist urheberrechtlich geschützt.  
+Die Vervielfältigung, Verbreitung oder Modifikation ohne ausdrückliche Genehmigung des Autors ist untersagt.  
+FiveM und Grand Theft Auto V sind Marken von Rockstar Games. Dieses Script steht in keiner Verbindung zu Rockstar Games oder Take-Two Interactive.  
 
 ### 📞 Support
 Falls du Probleme hast oder Fragen hast, kontaktiere uns unter https://discord.gg/yDwjBKu8tM.
